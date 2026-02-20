@@ -1,0 +1,11 @@
+# myvenv
+# model_training.ipynb
+# dataset
+
+
+myvenv/
+__pycache__/
+*.pyc
+model.pkl
+dataset/
+model_training.ipynb
